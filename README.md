@@ -3,7 +3,9 @@ MUI
 欢迎大家使用jquery-ui-MGLplus 简称MUI 
 
 基于JQueryUI 10.4 修改布局方式 支持蒙古文的输出方式。
-依赖 jquery-1.10.2.js
+依赖 jquery-1.10.2.js     
+现仅支持部分组件，持续修复中--------
+
 
 未包含字体嵌入部分 详见DEMO
 
