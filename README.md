@@ -20,7 +20,7 @@ MUI
 样式表     根目录\JS\jquery-ui-MGLplus.css 
 
 
-开发包目录：根目录\development-bundle\<br/>
+开发包目录：根目录\development-bundle\
 
 实例：		根目录\development-bundle\demos\ 
 
@@ -33,7 +33,7 @@ MUI
 功能源代码	根目录\development-bundle\ui\ 
 
 
-编译工具 Grunt <br/>
+编译工具 Grunt 
 
 
 
