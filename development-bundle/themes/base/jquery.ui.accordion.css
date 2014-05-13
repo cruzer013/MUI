@@ -1,0 +1,50 @@
+/*!
+ * jQuery UI Accordion 1.10.4
+ * http://jqueryui.com
+ *
+ * Copyright 2014 jQuery Foundation and other contributors
+ * Released under the MIT license.
+ * http://jquery.org/license
+ *
+ * http://api.jqueryui.com/accordion/#theming
+ */
+.ui-accordion .ui-accordion-header {
+    writing-mode:tb-lr;
+	display: block;
+	cursor: pointer;
+	position: relative;
+	margin-top: 2px;
+	padding: 1em 1em 1em 1em;
+	min-height: 0; /* support: IE7 */
+    height: 400px;
+    float: left;
+
+}
+.ui-accordion .ui-accordion-icons {
+    writing-mode:tb-lr;
+	/*padding-left: 2.2em;*/
+}
+.ui-accordion .ui-accordion-noicons {
+    writing-mode:tb-lr;
+	/*padding-left: .7em;*/
+}
+.ui-accordion .ui-accordion-icons .ui-accordion-icons {
+    writing-mode:tb-lr;
+	/*padding-left: 2.2em;*/
+}
+.ui-accordion .ui-accordion-header .ui-accordion-header-icon {
+    writing-mode:tb-lr;
+	position: absolute;
+	left: .5em;
+	top: 50%;
+	margin-top: -8px;
+}
+.ui-accordion .ui-accordion-content {
+    writing-mode:tb-lr;
+	padding: 1em 2.2em;
+	border-top: 0;
+	overflow: auto;
+    float: left;
+    max-height: 400px;
+    margin-top: 2px;
+}
